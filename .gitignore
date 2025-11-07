@@ -1,0 +1,8 @@
+# ignore everything by default
+*
+# except this file itself
+!.gitignore
+# except these extensions
+!*.pub
+!*.md
+!*.sh
